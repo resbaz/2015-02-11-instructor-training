@@ -1,7 +1,10 @@
 # Software Carpentry instructor training
 
-University of Melbourne  
-Feb 11-13, 2015
+Feb 11-13, 2015  
+Collaborative Learning Space 4 (Room 116), Old Arts*  
+University of Melbourne
+
+*Room to be confirmed
 
 ## Registration
 
