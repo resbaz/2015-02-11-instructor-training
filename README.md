@@ -6,9 +6,11 @@ University of Melbourne
 
 *Room to be confirmed
 
-## Registration
+## Advertising & registration
 
-A post about the event and instructions about registering can be found [here](http://resbaz.tumblr.com/post/92303727679/announcing-our-software-carpentry-instructor-training).
+Details of the event and instructions about registering can be found at this [FAQ page](http://resbaz.tumblr.com/instructor-training).  
+
+To avoid confusion, the advertising simply pitches a "Software Carpentry instructor training course." There might be a small number of participants who aren't looking to be involved with Software Carpentry (e.g. computer aided design people), however we can contact those people individually and explain. 
 
 ## Planning meetings
 
