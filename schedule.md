@@ -52,3 +52,6 @@ All sessions 90 minutes, unless otherwise indicated.
 
 ###Session 6
  - Activity: lightning lessons & feedback (with class)
+
+###Session 7
+ - Activity: Planning for upcoming bootcamps in Australia/NZ (in regional groups) 
