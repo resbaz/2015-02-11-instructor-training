@@ -16,8 +16,13 @@ To avoid confusion, the advertising simply pitches a "Software Carpentry instruc
 
 Notes from our online planning meetings are being kept at [this Etherpad](https://etherpad.mozilla.org/train-the-trainer-resbaz).  
 
-## Certification & ResBaz conference participation
+## Certification
 
-During the training course all participants will have a go (in small groups) at teaching a small section (10-15 min) of the Software Carpentry teaching materials to each other. Those participants who are feeling particularly confident will then have the option of teaching that same section at the Research Bazaar conference during the following week. Participants who do this will be certified at the conclusion of the conference. All other participants will be encouraged to attend the conference as a helper (if they are relatively comfortable with the teaching content) or participant (if they need to up-skill and learn some of the content), with a view to teaching at a bootcamp in the future. Upon teaching at a future bootcamp (under the guidance and assistance of more experienced instructors, of course) those participants will be officially certified.
+At the conclusion of a 3-day instructor training course, participants are required to do two things in order to be officially certified:  
+
+1. Teach a short lesson to Greg Wilson and a few other qualified instructors.
+2. Submit a (small) proposed change/improvement to the repository of Software Carpentry teaching materials on GitHub. 
+
+We’ll set up a video link on the final day of the instructor training so that people can do (1) if they feel ready. For step (2), we’re going to run a 1-hour GitHub sprint on the Wednesday morning of the conference. After two days of teaching/helping/participating everyone will have identified some small changes they’d like to make to the teaching materials, so we’ll have our global network of topic maintainers online to provide immediate feedback.
 
 There may be a small number of participants who wish to instruct for a program other than Software Carpentry. For those people Mozilla Science Lab will figure out a badging system.
