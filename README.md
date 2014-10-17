@@ -12,6 +12,10 @@ Details of the event and instructions about registering can be found at this [FA
 
 To avoid confusion, the advertising simply pitches a "Software Carpentry instructor training course." There might be a small number of participants who aren't looking to be involved with Software Carpentry (e.g. computer aided design people), however we can contact those people individually and explain. 
 
+## Lesson notes
+
+Greg Wilson is writing up his lesson notes [here](https://github.com/swcarpentry/bc/tree/gh-pages/teaching), and Bill Mills is putting together an [instructor training website](http://mozillascience.github.io/instructorTraining/).
+
 ## Planning meetings
 
 Notes from our online planning meetings are being kept at [this Etherpad](https://etherpad.mozilla.org/train-the-trainer-resbaz).  
