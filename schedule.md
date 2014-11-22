@@ -5,6 +5,11 @@ All sessions 90 minutes, unless otherwise indicated.
 
 ##Day 1 - Theory: Knowledge, Expertise and Learning
 
+###Introduction and welcome (Damien, 20 min)
+ - Introductions 
+ - History of Software Carpentry (with emphasis on Australia)
+ - Brief overview of what (and how) gets taught at a workshop
+
 ###Session 1
  - Structure of knowledge
   - Activity: Concept Maps
@@ -48,10 +53,16 @@ All sessions 90 minutes, unless otherwise indicated.
   - Outside In
   - Structuring feedback
   - Video assessment
-  - Activity: lightning lessons & feedback (in groups)
 
 ###Session 6
- - Activity: lightning lessons & feedback (with class)
+ - Preparing for a workshop 
+  - Bill and Damien to describe how they go about preparing to teach
+  - Activity: based on this [post](http://mozillascience.org/train-the-trainers-next-iterations/) and [discussion](http://forum.mozillascience.org/t/train-the-trainers-next-iterations/166)
 
 ###Session 7
- - Activity: Planning for upcoming bootcamps in Australia/NZ (in regional groups) 
+ - Activity: Planning for upcoming workshops in Australia/NZ (in regional groups)
+  - Includes creating the website for upcoming workshops   
+
+###Closing remarks (Damien, 15 min)
+ - Future directions for Software Carpentry in Australia
+  - Partnerships and affiliations with the Software Carpentry Foundation  
