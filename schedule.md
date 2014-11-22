@@ -5,7 +5,8 @@ All sessions 90 minutes, unless otherwise indicated.
 
 ##Day 1 - Theory: Knowledge, Expertise and Learning
 
-###Introduction and welcome (Damien, 20 min)
+###Introduction and welcome 
+*Damien, 20 min*
  - Introductions 
  - History of Software Carpentry (with emphasis on Australia)
  - Brief overview of what (and how) gets taught at a workshop
@@ -63,6 +64,7 @@ All sessions 90 minutes, unless otherwise indicated.
  - Activity: Planning for upcoming workshops in Australia/NZ (in regional groups)
   - Includes creating the website for upcoming workshops   
 
-###Closing remarks (Damien, 15 min)
+###Closing remarks 
+*Damien, 15 min*
  - Future directions for Software Carpentry in Australia
   - Partnerships and affiliations with the Software Carpentry Foundation  
