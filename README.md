@@ -1,10 +1,8 @@
 # Software Carpentry instructor training
 
 Feb 11-13, 2015  
-Collaborative Learning Space 4 (Room 116), Old Arts*  
-University of Melbourne
-
-*Room to be confirmed
+North Theatre (room 239) on morning of 11 Feb, Collaborative Learning Space 4 (room 116) thereafter
+Old Arts Building, University of Melbourne
 
 ## Advertising & registration
 
@@ -14,7 +12,7 @@ To avoid confusion, the advertising simply pitches a "Software Carpentry instruc
 
 ## Lesson notes
 
-Greg Wilson is writing up his lesson notes [here](https://github.com/swcarpentry/bc/tree/gh-pages/teaching), and Bill Mills is putting together an [instructor training website](http://mozillascience.github.io/instructorTraining/).
+Greg Wilson and Bill Mills are writing their lesson notes [here](http://swcarpentry.github.io/instructor-training/) (source code [here](https://github.com/swcarpentry/instructor-training)), and Bill Mills is putting together an [instructor training website](http://mozillascience.github.io/instructorTraining/).
 
 ## Planning meetings
 
@@ -22,11 +20,12 @@ Notes from our online planning meetings are being kept at [this Etherpad](https:
 
 ## Certification
 
-At the conclusion of a 3-day instructor training course, participants are required to do two things in order to be officially certified:  
+At the conclusion of a 3-day instructor training course, participants are required to do three things in order to be officially certified:  
 
-1. Teach a short lesson to Greg Wilson and a few other qualified instructors.
-2. Submit a (small) proposed change/improvement to the repository of Software Carpentry teaching materials on GitHub. 
+1. Submit a (small) proposed change/improvement to the repository of Software Carpentry teaching materials on GitHub
+2. Create a workshop website (this can be a fake or one that is actually used in future)
+3. Teach a short lesson to Greg Wilson
 
-We’ll set up a video link on the final day of the instructor training so that people can do (1) if they feel ready. For step (2), we’re going to run a 1-hour GitHub sprint on the Wednesday morning of the conference. After two days of teaching/helping/participating everyone will have identified some small changes they’d like to make to the teaching materials, so we’ll have our global network of topic maintainers online to provide immediate feedback.
+Everyone will do (2) on the final day of the instructor training, whereby they will get in groups and create the website for the workshop they are going to run in 2015. We’ll also set up a video link on the final day of the instructor training so that people can do (3) if they feel ready. For step (1), we’re going to run a 1-hour GitHub sprint on the Wednesday morning of the conference. After two days of teaching/helping/participating everyone will have identified some small changes they’d like to make to the teaching materials, so we’ll have our global network of topic maintainers online to provide immediate feedback.
 
 There may be a small number of participants who wish to instruct for a program other than Software Carpentry. For those people Mozilla Science Lab will figure out a badging system.
