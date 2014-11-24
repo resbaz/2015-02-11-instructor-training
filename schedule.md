@@ -67,4 +67,6 @@ All sessions 90 minutes, unless otherwise indicated.
 ###Closing remarks 
 *Damien, 15 min*
  - Future directions for Software Carpentry in Australia
-  - Partnerships and affiliations with the Software Carpentry Foundation  
+  - Partnerships and affiliations with the Software Carpentry Foundation
+  - Oz mailing list (oz@lists.software-carpentry.org)
+   - Sign up here: http://lists.software-carpentry.org/mailman/listinfo
