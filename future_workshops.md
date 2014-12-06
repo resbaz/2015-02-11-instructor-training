@@ -28,7 +28,7 @@ months expressing an interest in helping out at a workshop (i.e. Damien has the 
 
 ### Hobart
 
-* Instructors: Tom Remenyi (UTAS, Data Science Hobart), Michael Sumner (Antarctic Division, Data Science Hobart)  
+* Instructors: Tom Remenyi, Michael Sumner  
 * Possible helpers: Eloise Macdonald-Meyer  
 * Website:  
 
@@ -47,9 +47,16 @@ months expressing an interest in helping out at a workshop (i.e. Damien has the 
 ### Melbourne (Swinburne)
 
 * Instructors: Alistair Walsh, Ewan Barr
+* Possible helpers: Luz Garcia, Vivek Venkatraman Krishnan, Nicola Pastorello
+* Website:
+* Notes: Arna Karick is looking to establish a Swinburne Data Science Institute in 2015. They want to run Software Carpentry workshops
+
+### Melbourne (Neuroscience)
+
+* Instructors: Bryan Paton, Isabell Kiral-Kornek
 * Possible helpers:
 * Website:
-* Notes: 
+* Notes: Bryan is developing some neuroscience teaching materials (in MATLAB) which might be a perfect fit for a [Data Carpentry](http://datacarpentry.org/) workshop
 
 
 
