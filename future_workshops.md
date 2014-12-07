@@ -54,7 +54,7 @@ Due to the large cohort of instructors, there is scope to run a number of worksh
 
 #### Melbourne (Swinburne)
 
-Arna Karick is looking to establish a Swinburne Data Science Institute in 2015, so it might be good to get her to attend this session.
+Arna Karick is looking to establish a Swinburne Data Science Institute in 2015 (which will most likely sign on as an offical affiliate of the Software Carpentry Foundation), so she will also attend this session.
 
 * Instructors: **Alistair Walsh**, Ewan Barr, Genevieve Shattow
 * Possible helpers: Luz Garcia, Vivek Venkatraman Krishnan, Nicola Pastorello
