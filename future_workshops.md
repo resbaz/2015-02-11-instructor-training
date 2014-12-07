@@ -10,12 +10,15 @@ Group captains are indicated in bold. Everyone should congregate around that per
 
 #### Brisbane
 
-Due to the large cohort of instructors, there is scope to run a number of workshops in Brisbane in 2015. We should probably have Belinda Weaver from [QCIF](http://www.qcif.edu.au/) Skype in for this session, as she is a great supporter of Software Carpentry and can possibly source helpers and funding. 
+Due to the large cohort of instructors, there is scope to run a number of workshops in Brisbane in 2015. Belinda Weaver from [QCIF](http://www.qcif.edu.au/) will Skype in for this session, as she is a great supporter of Software Carpentry and can possibly source helpers and funding. 
 
 * Instructors: **Amanda Mioto**, Mitchell Stanton-Cook, Areej Alsheikh-Hussain, Sam Hames, Paula Martinez
 * Possible helpers: Michael Imelfort (QCIF), Nick Coghlan (Red Hat), Dan Callaghan (Red Hat)
 * Websites:
-* Notes: Keep in mind that the 2015 PyCon Australia conference will be held in Brisbane in early August. In 2014 we held a Software Carpentry workshop immediately before that conference (see website [here](http://philippbayer.github.io/2014-07-30-pyconaus/)) and then some of the participants and helpers stayed on in Brisbane and attended the conference.
+* Notes: 
+   * Keep in mind that the 2015 PyCon Australia conference will be held in Brisbane in early August. In 2014 we held a Software Carpentry workshop immediately before that conference (see website [here](http://philippbayer.github.io/2014-07-30-pyconaus/)) and then some of the participants and helpers stayed on in Brisbane and attended the conference.
+   * Belinda is doing the online instructor training course in Feburary
+   * Belinda and Mitchell have already been discussing the possibility of hosting a workshop at the UQ Winter School in July 2015
 
 #### Digital Humanities
 
@@ -87,6 +90,8 @@ The [New Zealand eScience Infrastructure](https://www.nesi.org.nz/) sponsored a 
 * Instructors: **Andrew Rohl**, Raffaella Demichelis
 * Possible helpers: Rob Syme
 * Website:
+* Notes:
+   * Philipp Bayer is a very active Software Carpentry instructor who is moving to Perth in early 2015 
 
 
 
