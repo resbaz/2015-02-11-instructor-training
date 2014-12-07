@@ -62,7 +62,7 @@ All sessions 90 minutes, unless otherwise indicated.
 
 ###Session 7
  - Activity: Planning for upcoming workshops in Australia/NZ (in regional groups)
-  - Includes creating the website for upcoming workshops   
+  - The groups and instructions for this session can be found [here](https://github.com/resbaz/2015-02-11-instructor-training/blob/master/future_workshops.md)
 
 ###Closing remarks 
 *Damien, 15 min*
