@@ -16,6 +16,10 @@ Due to the large cohort of instructors, there is scope to run a number of worksh
 * Possible helpers: Michael Imelfort (QCIF), Nick Coghlan (Red Hat), Dan Callaghan (Red Hat)
 * Websites:
 
+#### Digital Humanities
+
+* Instructors: **Fiona Tweedie**, Angus Ferguson, Daniel McDonald, Kimberly Doyle, Fabian Held
+
 #### Hobart
 
 * Instructors: **Tom Remenyi**, Michael Sumner  
@@ -34,10 +38,6 @@ Due to the large cohort of instructors, there is scope to run a number of worksh
 * Instructors: **Rob Johnson**  
 * Possible helpers: Luke Garde  
 * Website:  
-
-#### Melbourne (Digital Humanities)
-
-* Instructors: **Fiona Tweedie**, Angus Ferguson, Daniel McDonald, Kimberly Doyle
 
 #### Melbourne (Neuroscience)
 
