@@ -2,9 +2,13 @@
 
 This document will be used to guide the final session of the instructor training course, which requires the participants to get together in geographical groups and plan workshops for 2015 (including the construction of a draft website). The document includes not only the names of the instructor trainees, but also of people who have contacted Damien Irving over the last few months expressing an interest in helping out at a workshop (Damien has the contact details for all these people).
 
+### Adelaide
+
+* Instuctors: TBA
+
 ### Brisbane
 
-Due to the large cohort of instructors, there is scope to run a number of workshops in Brisbane in 2015. We should probably have Belinda Weaver from [QCIF](http://www.qcif.edu.au/) Skype in for this session, as she is a great supporter of Software Carpentry and can source helpers and funding. 
+Due to the large cohort of instructors, there is scope to run a number of workshops in Brisbane in 2015. We should probably have Belinda Weaver from [QCIF](http://www.qcif.edu.au/) Skype in for this session, as she is a great supporter of Software Carpentry and can possibly source helpers and funding. 
 
 * Instructors: Amanda Mioto, Mitchell Stanton-Cook, Areej Alsheikh-Hussain, Sam Hames, Paula Martinez
 * Possible helpers: Michael Imelfort (QCIF), Nick Coghlan (Red Hat), Dan Callaghan (Red Hat)
@@ -16,16 +20,27 @@ Due to the large cohort of instructors, there is scope to run a number of worksh
 * Possible helpers: Eloise Macdonald-Meyer  
 * Website:  
 
+### Melbourne (Bioinformatics)
+
+[COMBINE](http://combine.org.au/) have already co-hosted two workshops in Melbourne for the bioinformatics community and will be looking to continue this tradition in 2015.
+* Instructors: Scott Ritchie, Harriet Dashnow, Peter Hickey, Noel Faux, Andrew Lonsdale
+* Possible helpers:
+* Website:
+
 ### Melbourne (Bureau of Meteorology)
 
 * Instructors: Rob Johnson  
 * Possible helpers: Luke Garde  
 * Website:  
 
+## Melbourne (Digital Humanities)
+
+* Instructors: Fiona Tweedie, Angus Ferguson, Daniel McDonald, Kimberly Doyle
+
 ### Melbourne (Neuroscience)
 
-* Instructors: Bryan Paton, Isabell Kiral-Kornek
-* Possible helpers:
+* Instructors: Bryan Paton, Isabell Kiral-Kornek, Scott Kolbe
+* Possible helpers: ResBaz MATLAB teaching team
 * Website:
 * Notes: Bryan is developing some neuroscience teaching materials (in MATLAB) which might be a perfect fit for a [Data Carpentry](http://datacarpentry.org/) workshop
 
@@ -42,6 +57,14 @@ Arna Karick is looking to establish a Swinburne Data Science Institute in 2015, 
 * Instructors: Alistair Walsh, Ewan Barr, Genevieve Shattow
 * Possible helpers: Luz Garcia, Vivek Venkatraman Krishnan, Nicola Pastorello
 * Website/s:
+
+### Melbourne (University of Melbourne)
+
+The Research Platforms department (better known through it's Research Bazaar program) will be looking to offer a number of workshops for University of Melbourne staff and students in 2015 (although there is also scope to host workshops elsewhere in Melbourne). Damien Irving will coordinate a discussion in this group and when, where and for whom those workshops will be run.
+* Instructors: Damien Irving, Andrea Bedini, Tim Rice, Thomas Coudrat, Pip Griffin, Jared Winton, Martin Paulo, Nicholas Crouch
+* Possible helpers: Luke Zappia
+
+
 
 ### New South Wales
 
