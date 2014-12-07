@@ -15,6 +15,7 @@ Due to the large cohort of instructors, there is scope to run a number of worksh
 * Instructors: **Amanda Mioto**, Mitchell Stanton-Cook, Areej Alsheikh-Hussain, Sam Hames, Paula Martinez
 * Possible helpers: Michael Imelfort (QCIF), Nick Coghlan (Red Hat), Dan Callaghan (Red Hat)
 * Websites:
+* Notes: Keep in mind that the 2015 PyCon Australia conference will be held in Brisbane in early August. In 2014 we held a Software Carpentry workshop immediately before that conference (see website [here](http://philippbayer.github.io/2014-07-30-pyconaus/)) and then some of the participants and helpers stayed on in Brisbane and attended the conference.
 
 #### Digital Humanities
 
