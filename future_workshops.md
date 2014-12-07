@@ -62,7 +62,7 @@ Arna Karick is looking to establish a Swinburne Data Science Institute in 2015, 
 
 #### Melbourne (University of Melbourne)
 
-The Research Platforms department (better known through it's Research Bazaar program) will be looking to offer a number of workshops for University of Melbourne staff and students in 2015 (although there is also scope to host workshops elsewhere in Melbourne). Damien Irving will coordinate a discussion in this group and when, where and for whom those workshops will be run.
+The Research Platforms department (better known through it's [Research Bazaar](http://resbaz.tumblr.com/) program) will be looking to offer a number of workshops for University of Melbourne staff and students in 2015 (although there is also scope to host workshops elsewhere in Melbourne). Damien Irving will coordinate a discussion in this group and when, where and for whom those workshops will be run.
 * Instructors: **Damien Irving**, Andrea Bedini, Tim Rice, Thomas Coudrat, Pip Griffin, Jared Winton, Martin Paulo, Nicholas Crouch
 * Possible helpers: Luke Zappia
 
@@ -76,7 +76,7 @@ Due to the large cohort of instructors, there is scope to run a number of worksh
 
 #### New Zealand eScience infrastructure
 
-The New Zealand eScience infrastructure sponsored a number of people to come to the instructor training, with a view to coordinating a number of workshops across New Zealand in 2015. They can all get together during this session and plan how this will play out.
+The [New Zealand eScience Infrastructure](https://www.nesi.org.nz/) sponsored a number of people to come to the instructor training, with a view to coordinating a number of workshops across New Zealand in 2015. They can all get together during this session and plan how this will play out.
 * Instructors: **Nick Jones**, John Rugis, Sina Masoud-Ansari, Sung Bae, Mik Black, Cameron McLean, Tom Kelly, James Boocock, Richard Hosking, Constantine Zakkaroff, Prashant Gupta 
 * Possible helpers:
 * Website/s:
