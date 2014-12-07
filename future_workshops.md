@@ -1,6 +1,6 @@
 ## Software Carpentry workshops in Aus/NZ, 2015
 
-This document will be used to guide the final session of the instructor training course, which requires the participants to get together in geographical groups and plan workshops for 2015 (including the construction of a draft website). The document includes not only the names of the instructor trainees for each group, but also of people who have contacted Damien Irving over the last few months expressing an interest in helping out at a workshop (Damien has the contact details for all these people).
+This document will be used to guide the final session of the instructor training course, which requires the participants to get together in geographical groups and plan workshops for 2015 (including the construction of draft workshop websites). The document includes not only the names of the instructor trainees for each group, but also of people who have contacted Damien Irving over the last few months expressing an interest in helping out at a workshop (Damien has the contact details for all these people).
 
 Group captains are indicated in bold. Everyone should congregate around that person and they will be given collaborator access to this document so they can update it with website links and other necessary information.
 
