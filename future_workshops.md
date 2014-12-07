@@ -1,30 +1,20 @@
 ## Software Carpentry workshops in Aus/NZ, 2015
 
-This document sketches out the Software Carpentry workshops that might arise from the instructor training course.
-It includes not only the instructor trainees, but also people who have contacted Damien Irving over the last few
-months expressing an interest in helping out at a workshop (i.e. Damien has the contact details for all these people).
+This document will be used to guide the final session of the instructor training course, which requires the participants to get together in geographical groups and plan workshops for 2015 (including the construction of a draft website). The document includes not only the names of the instructor trainees, but also of people who have contacted Damien Irving over the last few months expressing an interest in helping out at a workshop (Damien has the contact details for all these people).
 
-### Brisbane (AMOS Conference)
+### AMOS Conference (Brisbane)
 
 * Instructors: Damien Irving, Rob Johnson, Nic Hannah  
 * Possible helpers: Holger Wolff  
-* Website:   
+* Website: http://damienirving.github.io/2015-07-13-amos/
 
-### Brisbane (Bioinformatics)
+### Brisbane
 
-* Instructors: Amanda Mioto, Mitchell Stanton-Cook, Areej Alsheikh-Hussain
-* Possible helpers:  
-* Website:
-* Notes: 
-   * Belinda Weaver from [QCIF](http://www.qcif.edu.au/) is a great supporter of Software Carpentry and can source helpers and funding. 
-   * Nick Coghlan and Dan Callaghan from Red Hat in Brisbane have also helped at Software Carpentry workshops in the past.  
+Due to the large cohort of instructors, there is scope to run a number of workshops in Brisbane in 2015. We should probably have Belinda Weaver from [QCIF](http://www.qcif.edu.au/) Skype in for this session, as she is a great supporter of Software Carpentry and can source helpers and funding. 
 
-### Brisbane (UQ, general audience)
-
-* Instructors: Sam Hames, Paula Martinez  
-* Possible helpers: Michael Imelfort, (Belinda Weaver can get QCIF people)  
-* Website:
-* Notes: (as per Brisbane workshop above)
+* Instructors: Amanda Mioto, Mitchell Stanton-Cook, Areej Alsheikh-Hussain, Sam Hames, Paula Martinez
+* Possible helpers: Michael Imelfort (QCIF), Nick Coghlan (Red Hat), Dan Callaghan (Red Hat)
+* Websites:
 
 ### Hobart
 
@@ -38,25 +28,40 @@ months expressing an interest in helping out at a workshop (i.e. Damien has the 
 * Possible helpers: Luke Garde  
 * Website:  
 
-### Perth (Curtin University)
-
-* Instructors: Andrew Rohl, Raffaella Demichelis
-* Possible helpers: Rob Syme
-* Website:
-
-### Melbourne (Swinburne)
-
-* Instructors: Alistair Walsh, Ewan Barr
-* Possible helpers: Luz Garcia, Vivek Venkatraman Krishnan, Nicola Pastorello
-* Website:
-* Notes: Arna Karick is looking to establish a Swinburne Data Science Institute in 2015. They want to run Software Carpentry workshops
-
 ### Melbourne (Neuroscience)
 
 * Instructors: Bryan Paton, Isabell Kiral-Kornek
 * Possible helpers:
 * Website:
 * Notes: Bryan is developing some neuroscience teaching materials (in MATLAB) which might be a perfect fit for a [Data Carpentry](http://datacarpentry.org/) workshop
+
+### Melbourne (RMIT)
+
+* Instructors: Nicholas May, Ian Thomas
+* Possible helpers:
+* Website:
+
+### Melbourne (Swinburne)
+
+Arna Karick is looking to establish a Swinburne Data Science Institute in 2015, so it might be good to get her to attend this session.
+
+* Instructors: Alistair Walsh, Ewan Barr
+* Possible helpers: Luz Garcia, Vivek Venkatraman Krishnan, Nicola Pastorello
+* Website/s:
+
+### New Zealand eScience infrastructure
+
+The New Zealand eScience infrastructure sponsored a number of people 
+
+### Perth (Curtin University)
+
+* Instructors: Andrew Rohl, Raffaella Demichelis
+* Possible helpers: Rob Syme
+* Website:
+
+
+
+
 
 
 
