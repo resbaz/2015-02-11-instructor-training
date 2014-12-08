@@ -66,7 +66,7 @@ Arna Karick is looking to establish a Swinburne Data Science Institute in 2015 (
 
 #### Melbourne (University of Melbourne)
 
-The Research Platforms department (better known through it's [Research Bazaar](http://resbaz.tumblr.com/) program) will be looking to offer a number of workshops for University of Melbourne staff and students in 2015 (although there is also scope to host workshops elsewhere in Melbourne). Damien Irving will coordinate a discussion in this group and when, where and for whom those workshops will be run.
+The Research Platforms department (better known through it's [Research Bazaar](http://resbaz.tumblr.com/) program) will be looking to offer a number of workshops for University of Melbourne staff and students in 2015 (although there is also scope to host workshops elsewhere in Melbourne). A particular focus will be running workshops for disciplines at the University of Melbourne that have not had much exposure to Software Carpentry in the past (e.g. economics, botany, mathematics and statistics). Damien Irving will coordinate a discussion in this group and when, where and for whom those workshops will be run.
 * Instructors: **Damien Irving**, Andrea Bedini, Tim Rice, Thomas Coudrat, Pip Griffin, Jared Winton, Martin Paulo, Nicholas Crouch
 * Possible helpers: Luke Zappia
 
@@ -93,6 +93,9 @@ The [New Zealand eScience Infrastructure](https://www.nesi.org.nz/) sponsored a 
 * Notes:
    * Philipp Bayer is a very active Software Carpentry instructor who is moving to Perth in early 2015 
 
+   
+  
+It is hoped that in February 2016 the Research Bazaar conference will be held simultaneously (or near simultaneously) at multiple sites around Australia and New Zealand. The regions with a large representation at the instructor training (e.g. Brisbane, Sydney, Hobart, Auckland) may wish to start considering this option.   
 
 
 
