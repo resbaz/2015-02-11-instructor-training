@@ -7,6 +7,7 @@ Group captains are indicated in bold. Everyone should congregate around that per
 #### Adelaide
 
 * Instuctors: TBA
+* Notes: Nathan Watson-Haigh is an active Software Carpentry person who has organised workshops in Adelaide in the past
 
 #### Brisbane
 
