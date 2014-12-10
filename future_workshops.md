@@ -13,7 +13,7 @@ Group captains are indicated in bold. Everyone should congregate around that per
 
 Due to the large cohort of instructors, there is scope to run a number of workshops in Brisbane in 2015. Belinda Weaver from [QCIF](http://www.qcif.edu.au/) will Skype in for this session, as she is a great supporter of Software Carpentry and can possibly source helpers and funding. 
 
-* Instructors: **Amanda Mioto**, Mitchell Stanton-Cook, Areej Alsheikh-Hussain, Sam Hames, Paula Martinez
+* Instructors: **Amanda Miotto**, Mitchell Stanton-Cook, Areej Alsheikh-Hussain, Sam Hames, Paula Martinez
 * Possible helpers: Michael Imelfort (QCIF), Nick Coghlan (Red Hat), Dan Callaghan (Red Hat)
 * Websites:
 * Notes: 
