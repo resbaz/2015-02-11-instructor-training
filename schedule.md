@@ -56,13 +56,16 @@ All sessions 90 minutes, unless otherwise indicated.
   - Video assessment
 
 ###Session 6
- - Preparing for a workshop 
+ - Preparing to teach
+  - Walk-through of the Software Carpentry lesson material repos 
   - Bill and Damien to describe how they go about preparing to teach
   - Activity: based on this [post](http://mozillascience.org/train-the-trainers-next-iterations/) and [discussion](http://forum.mozillascience.org/t/train-the-trainers-next-iterations/166)
 
 ###Session 7
- - Activity: Planning for upcoming workshops in Australia/NZ (in regional groups)
-  - The groups and instructions for this session can be found [here](https://github.com/resbaz/2015-02-11-instructor-training/blob/master/future_workshops.md)
+ - Planning a workshop
+  - Walk-though of the lead organiser checklist and other useful resources 
+  - Activity: Planning for upcoming workshops in Australia/NZ (in regional groups)
+    - The groups and instructions for this session can be found [here](https://github.com/resbaz/2015-02-11-instructor-training/blob/master/future_workshops.md)
 
 ###Closing remarks 
 *Damien, 15 min*
