@@ -4,6 +4,8 @@ Feb 11-13, 2015
 North Theatre (room 239) on morning of 11 Feb, Collaborative Learning Space 4 (room 116) thereafter  
 Old Arts Building, University of Melbourne
 
+Etherpad: https://etherpad.mozilla.org/train-the-trainer-resbaz
+
 ## Advertising & registration
 
 Details of the event and instructions about registering can be found at this [FAQ page](http://resbaz.tumblr.com/instructor-training).  
@@ -13,11 +15,7 @@ To avoid confusion, the advertising simply pitches a "Software Carpentry instruc
 ## Lesson notes
 
 Greg Wilson and Bill Mills are writing their lesson notes [here](http://swcarpentry.github.io/instructor-training/) (source code [here](https://github.com/swcarpentry/instructor-training)), and Bill Mills is putting together an [instructor training website](http://mozillascience.github.io/instructorTraining/).
-
-## Planning meetings
-
-Notes from our online planning meetings are being kept at [this Etherpad](https://etherpad.mozilla.org/train-the-trainer-resbaz).  
-
+  
 ## Certification
 
 At the conclusion of a 3-day instructor training course, participants are required to do three things in order to be officially certified:  
