@@ -1,7 +1,7 @@
 # Software Carpentry instructor training
 
 Feb 11-13, 2015  
-North Theatre (room 239) on morning of 11 Feb, Collaborative Learning Space 4 (room 116) thereafter  
+North Theatre (Room 239)    
 Old Arts Building, University of Melbourne
 
 Etherpad: https://etherpad.mozilla.org/train-the-trainer-resbaz
