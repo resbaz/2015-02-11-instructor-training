@@ -4,11 +4,6 @@ This document will be used to guide the final session of the instructor training
 
 Group captains are indicated in bold. Everyone should congregate around that person and they will be given collaborator access to this document so they can update it with website links and other necessary information.
 
-#### Adelaide
-
-* Instuctors: TBA
-* Notes: Nathan Watson-Haigh is an active Software Carpentry person who has organised workshops in Adelaide in the past
-
 #### Brisbane
 
 Due to the large cohort of instructors, there is scope to run a number of workshops in Brisbane in 2015. Belinda Weaver from [QCIF](http://www.qcif.edu.au/) will Skype in for this session, as she is a great supporter of Software Carpentry and can possibly source helpers and funding. 
@@ -53,8 +48,8 @@ Due to the large cohort of instructors, there is scope to run a number of worksh
 
 #### Melbourne (RMIT)
 
-* Instructors: **Nicholas May**, Ian Thomas
-* Possible helpers:
+* Instructors: **Ian Thomas**
+* Possible helpers: Nicholas May
 * Website:
 
 #### Melbourne (Swinburne)
