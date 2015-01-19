@@ -73,6 +73,7 @@ All sessions 90 minutes, unless otherwise indicated.
   - Partnerships and affiliations with the Software Carpentry Foundation
   - Oz mailing list (oz@lists.software-carpentry.org)
     - Sign up here: http://lists.software-carpentry.org/mailman/listinfo
+  - Data Carpentry 
 
 *We have committed to finish by no later than 3pm on Friday so people who need to catch late flights
 can do so.*
