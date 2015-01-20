@@ -1,9 +1,7 @@
 #Session Schedule
 A rough sketch, not even close to finalized. **All times and sessions subject to drastic change!**
 
-All sessions 90 minutes, unless otherwise indicated.
-
-##Day 1 - Theory: Knowledge, Expertise and Learning
+##Day 1 - Theory, Feedback & Engagement
 
 ###Introduction and welcome 
 *Damien, 20 min*
@@ -11,61 +9,60 @@ All sessions 90 minutes, unless otherwise indicated.
  - History of Software Carpentry (with emphasis on Australia)
  - Brief overview of what (and how) gets taught at a workshop
 
-###Session 1
- - Structure of knowledge
-  - Activity: Concept Maps
+###Structure of Knowledge (2:00) - Bill
+ - Concept Maps
+ - Using Memory
  - Expertise
-  - Working model
-  - progress
- - Understanding computing
+ - Includes coffee break (15)
 
-###Session 2
- - Memory
-  - Short & Long term
-  - Implications for teaching
- - Cognitive Load
- - Mistakes & Recovery
+ - main activities: couple attempts at concept maps, one 3-min round
+
+### Feedback (2:00) - Bill
+ - Inside-out
+ - rubrics
+ - (mostly exercises)
+ - Includes coffee break
+
+ - main activities: another 3-min lesson, this time in front of the class, then 5-min round
+
+### Compelling Teaching (1:00)
+ - three elements of motivation
+ - demotivation
+ - empathizing with learners
+ - introductions
+ - problem framing
+
+ - homework: think of how you're going to introduce your topic, demotivational stories
 
 ##Day 2 - Planning and Managing the Classroom
 
-###Session 3
- - Empowerment
- - Motivation
-  - Three elements model
- - Demotivation
-  - Stereotype Threat
-
-###Session 4
- - Lesson Planning
-  - Reverse Instructional Design
-  - Activity: RID in action
+### The Adaptive Classroom (2:00) - Bill
+ - Reverse Instructional Design
  - Assessment
-  - Summative v. Formative Assessment
-  - Good multiple choice questions
-   - Activity: MCQs
- - Adaption on the fly
-  - Strategies
-  - Peer Instruction
+ - Peer Instruction
+ - Includes coffee break (15)
 
-##Day 3 - Teaching Practice
+ - main activities: more lesson planning, more 3-min talks in front of the class, creation of MCQ, practice peer instruction
 
-###Session 5
- - Feedback
-  - Outside In
-  - Structuring feedback
-  - Video assessment
+### Master Demo (30) - Damien
+ - Showing how it's done
 
-###Session 6
- - Preparing to teach
-  - Walk-through of the Software Carpentry lesson material repos 
-  - Bill and Damien to describe how they go about preparing to teach
-  - Activity: based on this [post](http://mozillascience.org/train-the-trainers-next-iterations/) and [discussion](http://forum.mozillascience.org/t/train-the-trainers-next-iterations/166)
+### Lunch (1:00)
 
-###Session 7
- - Planning a workshop
-  - Walk-though of the lead organiser checklist and other useful resources 
-  - Activity: Planning for upcoming workshops in Australia/NZ (in regional groups)
-    - The groups and instructions for this session can be found [here](https://github.com/resbaz/2015-02-11-instructor-training/blob/master/future_workshops.md)
+### Project time (all afternoon)
+ - Per this [post](http://mozillascience.org/train-the-trainers-next-iterations/) and [discussion](http://forum.mozillascience.org/t/train-the-trainers-next-iterations/166)
+
+##Day 3 - Conducting a Workshop
+
+### Website setup (30)
+ - no preview
+
+### Lesson Contribution (1:00)
+ - alternative fork?
+
+### Planning a Workshop (?)
+ - checklists & prep
+ - regional group planning
 
 ###Closing remarks 
 *Damien, 15 min*
