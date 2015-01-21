@@ -56,4 +56,4 @@ A number of the activities during the course involve teaching short segments of 
 | 1:30 - 2:30 | Regional workshop planning (continued) | Damien | |  |   
 | 2:30 - 3:00 | Closing remarks | Damien | future directions for SWC in Aus/NZ | sign up to [oz mailing list](http://lists.software-carpentry.org/mailman/listinfo) |
 | **3:00 - 3:30** | **Afternoon tea (provided)** | | | |  
-| 3:30 - 4:00 | ResBaz conference planning | Damien | | |
+| 3:30 - 4:00 | ResBaz conference planning | Damien | | participants helping at conference to discuss/plan their involvement |
