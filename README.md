@@ -19,4 +19,4 @@ At the conclusion of a 3-day instructor training course, participants are requir
 2. Create a workshop website (this can be a fake or one that is actually used in future)
 3. Teach a short lesson to Greg Wilson
 
-Everyone will do (2) and (3) on the final day of the instructor training. We’ll also set up a video link on the second day of the instructor training so that people can do (3) if they feel ready. 
+Everyone will do (2) and (3) on the final day of the instructor training. We’ll also set up a video link on the second day of the instructor training so that people can do (3) if they feel ready, otherwise they can contact Greg to do it some other time. 
