@@ -4,12 +4,8 @@ Feb 11-13, 2015
 North Theatre (Room 239)    
 Old Arts Building, University of Melbourne
 
-Etherpad (for note-taking during the event): https://etherpad.mozilla.org/train-the-trainer-resbaz  
-Schedule: [schedule.md](https://github.com/resbaz/2015-02-11-instructor-training/blob/master/schedule.md)
-
-## Advertising & registration
-
-Details of the event and instructions about registering can be found at this [FAQ page](http://resbaz.tumblr.com/instructor-training).  
+Key pages: [Etherpad](https://etherpad.mozilla.org/train-the-trainer-resbaz) (for note-taking during the event),    
+[schedule](https://github.com/resbaz/2015-02-11-instructor-training/blob/master/schedule.md) and [FAQs](http://resbaz.tumblr.com/instructor-training).  
   
 ## Certification
 
@@ -19,4 +15,4 @@ At the conclusion of a 3-day instructor training course, participants are requir
 2. Create a workshop website (this can be a fake or one that is actually used in future)
 3. Teach a short lesson to Greg Wilson
 
-Everyone will do (2) and (3) on the final day of the instructor training. We’ll also set up a video link on the second day of the instructor training so that people can do (3) if they feel ready, otherwise they can contact Greg to do it some other time. 
+Everyone will do (2) and (3) on the final day of the instructor training. We’ll also set up a video link on the second day of the instructor training so that people can do (3) if they feel ready, otherwise they can contact Greg to arrange an alternative time. 
