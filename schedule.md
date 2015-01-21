@@ -3,9 +3,10 @@ A rough sketch, not even close to finalized. **All times and sessions subject to
 
 ##Day 1 - Theory, Feedback & Engagement
 
-| Time          | Session                | Content                                                   | Activities |  
-| 09:00 - 09:30 | Welcome & introduction | History of SWC (with emphasis on Australia)               |            |  
-|               |                        | Brief overview of what (and how) gets taught at a workshp |            |  
+| Time | Session | Instructor | Content | Activities |
+| ---  |:-------:|:----------:|:-------:|-----------:|
+| 09:00 - 09:30 | Welcome & introduction | Damien | History of SWC (emphasis on Australia), overview of what gets taught at a workshop |  |  
+
 
 
 
