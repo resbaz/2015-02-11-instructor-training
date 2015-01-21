@@ -4,8 +4,20 @@ A rough sketch, not even close to finalized. **All times and sessions subject to
 ##Day 1 - Theory, Feedback & Engagement
 
 | Time | Session | Instructor | Content | Activities |
-| ---  |:-------:|:----------:|:-------:|-----------:|
-| 09:00 - 09:30 | Welcome & introduction | Damien | History of SWC (emphasis on Australia), overview of what gets taught at a workshop |  |  
+| ---  |:-------:|:----------:|:-------:|:----------:|
+| 9:00 - 9:30 | Welcome & introduction | Damien | History of SWC (emphasis on Australia), overview of what gets taught at a workshop |  |  
+| 9:30 - 10:30 | Structure of knowledge | Bill | Concept maps, using memory, expertise | couple of attempts at concept maps, 3-min teaching round |  
+| **10:30 - 11:00** | **Morning tea (provided)** | | | |  
+| 11:00 - 12:00 | Structure of knowledge (continued) | Bill |  |  |  
+| 12:00 - 12:30 | Feedback | Bill | Inside-out, rubrics | another 3-min lesson, this time in front of the class, then 5-min round |  
+| 12:30 - 1:30 | Lunch (not provided) | | | |  
+| 1:30 - 3:00 | Feedback (continued) | Bill | | |   
+| **3:00 - 3:30** | **Afternoon tea (provided)** | | | |  
+| 3:30 - 5:00 | Compelling teaching | Bill | three elements of motivation, demotivation, empathizing with learners, introductions, problem framing | homework: think of how you're going to introduce your topic, demotivational stories |
+
+
+
+
 
 
 
