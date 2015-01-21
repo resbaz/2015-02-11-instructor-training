@@ -16,7 +16,7 @@ Participants are asked to familiarise themselves with the materials for one of t
 A number of the activities during the course involve teaching short segments of these lessons, so participants are advised to pick the one that they would like to teach. They don't need to know the material by heart - they just need to have read through from start to finish and understand the general topics and concepts covered.
 
 
-##Day 1 - Theory, Feedback & Engagement
+##Day 1 (Wed 11 Feb) - Theory, Feedback & Engagement
 
 | Time | Session | Instructor | Teaching Content | Activities |
 | ---  |:-------:|:----------:|:-------:|:----------:|
@@ -32,7 +32,7 @@ A number of the activities during the course involve teaching short segments of 
 
 There will be a group dinner from 6:30pm at [Cafe Corretto](http://www.urbanspoon.com/r/71/1435333/restaurant/Melbourne/Cafe-Corretto-Carlton) (our shout!)
 
-##Day 2 - Planning and Managing the Classroom
+##Day 2 (Thu 12 Feb) - Planning and Managing the Classroom
 
 | Time | Session | Instructor | Teaching Content | Activities |
 | ---  |:-------:|:----------:|:-------:|:----------:|
@@ -45,7 +45,7 @@ There will be a group dinner from 6:30pm at [Cafe Corretto](http://www.urbanspoo
 | **3:00 - 3:30** | **Afternoon tea (provided)** | | | |  
 | 3:30 - 5:00 | Project time (continued) | Bill | | Greg Wilson available online to assess willing participants |
 
-##Day 3 - Conducting a Workshop
+##Day 3 (Fri 13 Feb) - Conducting a Workshop
 
 | Time | Session | Instructor | Content | Activities |
 | ---  |:-------:|:----------:|:-------:|:----------:|
