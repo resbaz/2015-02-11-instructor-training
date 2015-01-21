@@ -8,7 +8,7 @@ Old Arts Building, University of Melbourne
 *Key pages:* 
 * [Etherpad](https://etherpad.mozilla.org/train-the-trainer-resbaz) (for note-taking during the event),
 * [FAQs](http://resbaz.tumblr.com/instructor-training)
-* An "in progress" version of the [instructor training lesson notes](http://swcarpentry.github.io/instructor-training/)   
+* [Instructor training lesson notes](http://swcarpentry.github.io/instructor-training/) (currently under development)   
 
 ##Schedule
 
