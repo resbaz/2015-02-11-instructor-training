@@ -4,12 +4,10 @@ Feb 11-13, 2015
 North Theatre (Room 239)    
 Old Arts Building, University of Melbourne
 
-Key pages: [Etherpad](https://etherpad.mozilla.org/train-the-trainer-resbaz) (for note-taking during the event), [schedule](https://github.com/resbaz/2015-02-11-instructor-training/blob/master/schedule.md) and [FAQs](http://resbaz.tumblr.com/instructor-training).  
+*Instructors:* [Bill Mills](https://twitter.com/billdoesphysics), [Damien Irving](https://twitter.com/drclimate) 
+*Key pages:* [Etherpad](https://etherpad.mozilla.org/train-the-trainer-resbaz) (for note-taking during the event), [FAQs](http://resbaz.tumblr.com/instructor-training) and an "in progress version of the [instructor training lesson notes](http://swcarpentry.github.io/instructor-training/)   
 
 ##Schedule
-
-*Instructors:* [Bill Mills](https://twitter.com/billdoesphysics), [Damien Irving](https://twitter.com/drclimate)  
-*Lesson notes:* There is an "in progess" version of the instructor training lesson notes [here](http://swcarpentry.github.io/instructor-training/)
 
 ###Day 0 - Pre-reading
 
