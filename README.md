@@ -4,7 +4,7 @@ Feb 11-13, 2015
 North Theatre (Room 239)    
 Old Arts Building, University of Melbourne
 
-Etherpad: https://etherpad.mozilla.org/train-the-trainer-resbaz
+Etherpad: https://etherpad.mozilla.org/train-the-trainer-resbaz  
 Schedule: [schedule.md](https://github.com/resbaz/2015-02-11-instructor-training/blob/master/schedule.md)
 
 ## Advertising & registration
