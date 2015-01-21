@@ -4,7 +4,7 @@ Feb 11-13, 2015
 North Theatre (Room 239)    
 Old Arts Building, University of Melbourne
 
-*Instructors:* [Bill Mills](https://twitter.com/billdoesphysics), [Damien Irving](https://twitter.com/drclimate) 
+*Instructors:* [Bill Mills](https://twitter.com/billdoesphysics), [Damien Irving](https://twitter.com/drclimate)    
 *Key pages:* [Etherpad](https://etherpad.mozilla.org/train-the-trainer-resbaz) (for note-taking during the event), [FAQs](http://resbaz.tumblr.com/instructor-training) and an "in progress version of the [instructor training lesson notes](http://swcarpentry.github.io/instructor-training/)   
 
 ##Schedule
