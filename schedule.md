@@ -45,23 +45,14 @@ A number of the activities during the course involve teaching short segments of 
 
 ##Day 3 - Conducting a Workshop
 
-### Website setup (30)
- - no preview
-
-### Lesson Contribution (1:00)
- - alternative fork?
-
-### Planning a Workshop (?)
- - checklists & prep
- - regional group planning
-
-###Closing remarks 
-*Damien, 15 min*
- - Future directions for Software Carpentry in Australia
-  - Partnerships and affiliations with the Software Carpentry Foundation
-  - Oz mailing list (oz@lists.software-carpentry.org)
-    - Sign up here: http://lists.software-carpentry.org/mailman/listinfo
-  - Data Carpentry 
-
-*We have committed to finish by no later than 3pm on Friday so people who need to catch late flights
-can do so.*
+| Time | Session | Instructor | Content | Activities |
+| ---  |:-------:|:----------:|:-------:|:----------:|
+| 9:00 - 10:30 | Lesson contribution | Damien | Introduction to SWC github repo | submit a change to a SWC lesson repo |  
+| **10:30 - 11:00** | **Morning tea (provided)** | | | |  
+| 11:00 - 11:30 | Website setup | Damien | Introduction to SWC website template  |  |  
+| 11:30 - 12:30 | Regional workshop planning | Damien | | See activity [here](https://github.com/resbaz/2015-02-11-instructor-training/blob/master/future_workshops.md) |  
+| **12:30 - 1:30** | **Lunch (not provided)** | | | |  
+| 1:30 - 2:30 | Regional workshop planning (continued) | Damien | |  |   
+| 2:30 - 3:00 | Closing remarks | Damien | Future directions for SWC Australia (incl organisational membership) | sign up to oz mailing list: http://lists.software-carpentry.org/mailman/listinfo |
+| **3:00 - 3:30** | **Afternoon tea (provided)** | | | |  
+| 3:30 - 4:00 | ResBaz conference planning | Damien | | |
