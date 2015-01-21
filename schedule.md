@@ -30,6 +30,7 @@ A number of the activities during the course involve teaching short segments of 
 | **3:00 - 3:30** | **Afternoon tea (provided)** | | | |  
 | 3:30 - 5:00 | Compelling teaching | Bill | three elements of motivation, demotivation, empathizing with learners, introductions, problem framing | homework: think of how you're going to introduce your topic, demotivational stories |
 
+There will be a group dinner from 6:30pm at [Cafe Corretto](http://www.urbanspoon.com/r/71/1435333/restaurant/Melbourne/Cafe-Corretto-Carlton) (our shout!)
 
 ##Day 2 - Planning and Managing the Classroom
 
