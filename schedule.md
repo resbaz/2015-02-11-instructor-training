@@ -1,5 +1,19 @@
 #Session Schedule
-A rough sketch, not even close to finalized. **All times and sessions subject to drastic change!**
+
+Instructors: [Bill Mills](https://twitter.com/billdoesphysics), [Damien Irving](https://twitter.com/drclimate)  
+
+##Day 0 - Pre-reading
+
+Particpants are asked to familiarise themselves with the materials for one of the following major Software Carpentry lessons: 
+* [Unix shell]()
+* [Programming with Python](http://software-carpentry.org/v5/novice/python/index.html)
+* Programming with R (link to come)
+* [Programming with MATLAB](http://swcarpentry.github.io/matlab-novice-inflammation/)
+* [Version control with Git](http://software-carpentry.org/v5/novice/git/index.html)
+* [Using databases and SQL](http://software-carpentry.org/v5/novice/sql/index.html)
+
+A number of the activities during the course involve teaching short segments of these lessons, so participants are advised to pick the one that they would like to teach. They don't need to know the material by heart - they just need to have read through from start to finish and understand the general topics and concepts covered.
+
 
 ##Day 1 - Theory, Feedback & Engagement
 
@@ -15,43 +29,6 @@ A rough sketch, not even close to finalized. **All times and sessions subject to
 | **3:00 - 3:30** | **Afternoon tea (provided)** | | | |  
 | 3:30 - 5:00 | Compelling teaching | Bill | three elements of motivation, demotivation, empathizing with learners, introductions, problem framing | homework: think of how you're going to introduce your topic, demotivational stories |
 
-
-
-
-
-
-
-
-###Introduction and welcome 
-*Damien, 20 min*
- - Introductions 
- - History of Software Carpentry (with emphasis on Australia)
- - Brief overview of what (and how) gets taught at a workshop
-
-###Structure of Knowledge (2:00) - Bill
- - Concept Maps
- - Using Memory
- - Expertise
- - Includes coffee break (15)
-
- - main activities: couple attempts at concept maps, one 3-min round
-
-### Feedback (2:00) - Bill
- - Inside-out
- - rubrics
- - (mostly exercises)
- - Includes coffee break
-
- - main activities: another 3-min lesson, this time in front of the class, then 5-min round
-
-### Compelling Teaching (1:00)
- - three elements of motivation
- - demotivation
- - empathizing with learners
- - introductions
- - problem framing
-
- - homework: think of how you're going to introduce your topic, demotivational stories
 
 ##Day 2 - Planning and Managing the Classroom
 
