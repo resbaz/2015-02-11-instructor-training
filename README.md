@@ -15,7 +15,7 @@ North Theatre (Room 239)
 ###Day 0 - Pre-reading
 
 Participants are asked to familiarise themselves with the materials for one of the following major Software Carpentry (SWC) lessons: 
-* [Unix shell]()
+* [Unix shell](http://software-carpentry.org/v5/novice/shell/)
 * [Programming with Python](http://software-carpentry.org/v5/novice/python/index.html)
 * Programming with R (link to come)
 * [Programming with MATLAB](http://swcarpentry.github.io/matlab-novice-inflammation/)
