@@ -51,7 +51,9 @@ There will be a group dinner from 6:30pm at [Cafe Corretto](http://www.urbanspoo
 | **12:30 - 1:30** | **Lunch (not provided)** | | | |  
 | 1:30 - 3:00 | Project time | Bill | tips on preparing to teach | plan, prepare and teach, as per this [post](http://mozillascience.org/train-the-trainers-next-iterations/) and [discussion](http://forum.mozillascience.org/t/train-the-trainers-next-iterations/166) |   
 | **3:00 - 3:30** | **Afternoon tea (provided)** | | | |  
-| 3:30 - 5:00 | Project time (continued) | Bill | | Greg Wilson available online to assess willing participants |
+| 3:30 - 5:00 | Project time (continued) | Bill | | Greg Wilson available online to assess willing participants |  
+
+For those who are interested, we'll head down to [Tsubu Bar](http://tsububar.com.au/) for drinks straight after the Day 2 classes finish.  
 
 ###Day 3 (Fri 13 Feb) - Conducting a Workshop
 
