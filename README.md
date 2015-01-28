@@ -21,6 +21,7 @@ Participants are asked to familiarise themselves with the materials for one of t
 * [Programming with MATLAB](http://swcarpentry.github.io/matlab-novice-inflammation/)
 * [Version control with Git](http://software-carpentry.org/v5/novice/git/index.html)
 * [Using databases and SQL](http://software-carpentry.org/v5/novice/sql/index.html)
+* Natural Language Toolkit (speak to [Fiona Tweedie](https://twitter.com/fctweedie) about appropriate materials)
 
 A number of the activities during the course involve teaching short segments of these lessons, so participants are advised to pick the one that they would like to teach. They don't need to know the material by heart - they just need to have read through from start to finish and understand the general topics and concepts covered.
 
