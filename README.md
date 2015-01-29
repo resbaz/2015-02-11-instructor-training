@@ -8,7 +8,8 @@ North Theatre (Room 239)
 *Key pages:*
 * [Etherpad](https://etherpad.mozilla.org/train-the-trainer-resbaz) (for group note-taking during the event)
 * [FAQs](http://resbaz.tumblr.com/instructor-training)
-* [Instructor training lesson notes](http://swcarpentry.github.io/instructor-training/) (currently under development)   
+* [Instructor training lesson notes](http://swcarpentry.github.io/instructor-training/) (currently under development)
+* [Instructor training website](http://swcarpentry.github.io/training-course/)
 
 ##Schedule
 
