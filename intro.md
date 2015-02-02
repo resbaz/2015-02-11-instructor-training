@@ -64,8 +64,8 @@ The University of Melbourne is an official Affiliate.
 As part of that arrangement we have an obligation to help Software Carpentry grow right 
 across Australia, 
 not just at the university. 
-NeSI is thinking of forming a similar relationship with Software Carpentry and helped 
-us bring a whole bunch of New Zealanders over.
+The New Zealand eScience Infrastructure (NeSI) is thinking of forming a similar relationship 
+with Software Carpentry and helped us bring a whole bunch of New Zealanders over.
 
 ##### Data Carpentry
 
