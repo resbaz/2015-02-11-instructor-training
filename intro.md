@@ -49,7 +49,8 @@ so that they have a working environment when the workshop is done.
 
 In order to keep up with its rapid growth, 
 Software Carpentry recently transitioned from a benevolent dictatorship to a full blown
-democracy with a volunteer Steering Committee (dedicated volunteers) and 
+democracy with a volunteer 
+[Steering Committee](https://twitter.com/ethanwhite/status/561621607769075712) (dedicated volunteers) and 
 Advisory Council (representatives from Partner and Affiliate organisations).
 
 The only paid position is the Executive Director 
