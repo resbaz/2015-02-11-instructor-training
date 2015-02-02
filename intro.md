@@ -17,12 +17,12 @@ Today:
 [This paper](http://f1000research.com/articles/3-62/v1) documents the history of the 
 organisation.
 
-#### In Australia and New Zealand
+##### Australia and New Zealand
 
 In early February 2013, Damien Irving and Joshua Madin pooled their funds and got 
 Greg Wilson (Founder and Executive Director of Software Carpentry) out to Australia to run
 a workshop for Genes to Geoscience at Macquarie University and the AMOS conference in Melbourne.
-Those were the first ever workshops outside of North American and Europe.
+Those were the first ever workshops outside of North America and Europe.
 
 Since that initial spark of activity there's been another 15 workshops in Aus/NZ and 
 there's a dozen active instructors.
@@ -58,7 +58,7 @@ which means essentially all the work
 (i.e. governance, lesson development, teaching, workshop coordination, website) 
 is done by volunteers (and to a smaller extent staff from Partners and Affiliates). 
 
-#### Partners/affiliates
+##### Partners/affiliates
 
 The University of Melbourne is an official Affiliate. 
 As part of that arrangement we have an obligation to help Software Carpentry grow right 
@@ -67,7 +67,7 @@ not just at the university.
 NeSI is thinking of forming a similar relationship with Software Carpentry and helped 
 us bring a whole bunch of New Zealanders over.
 
-#### Data Carpentry
+##### Data Carpentry
 
 The huge popularity of Software Carpentry has also meant that a sister organisation,
 [Data Carpentry](http://datacarpentry.org/), has also recently started up. 
@@ -92,7 +92,7 @@ We started out running training courses via an online, 14-week, 2-3 hours per we
 but have found like with the workshops, 
 face-to-face teaching over 2-3 intensive days works better.
 
-#### Certification
+##### Certification
 
 See here.
  
