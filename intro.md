@@ -94,5 +94,5 @@ face-to-face teaching over 2-3 intensive days works better.
 
 ##### Certification
 
-See here.
+See [here](https://github.com/resbaz/2015-02-11-instructor-training/blob/master/certification.md).
  
