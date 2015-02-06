@@ -55,7 +55,7 @@ For those who are interested, we'll head down to [Tsubu Bar](http://tsububar.com
 | **3:00 - 3:30** | **Afternoon tea (provided)** | | | |  
 | 3:30 - 5:00 | Project time (continued) | Bill | | Greg Wilson available online to assess willing participants |  
 
-There will be a group dinner from 6:30pm at [Pizza by the metre](http://www.urbanspoon.com/rph/71/1522334/melbourne-pizza-by-the-metre-restaurant-photos) (our shout!) (restaurant to be confirmed)
+There will be a group dinner from 6:30pm at [Pizza by the Metre](http://www.urbanspoon.com/rph/71/1522334/melbourne-pizza-by-the-metre-restaurant-photos) (our shout!)
 
 ###Day 3 (Fri 13 Feb) - Conducting a Workshop
 
