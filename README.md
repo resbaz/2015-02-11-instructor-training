@@ -41,7 +41,7 @@ A number of the activities during the course involve teaching short segments of 
 | 3:30 - 5:00 | Compelling teaching | Bill | three elements of motivation, demotivation, empathizing with learners, introductions, problem framing | homework: think of how you're going to introduce your topic, demotivational stories |
 
 For those who are interested, 
-we'll head down to [Tsubu Bar](http://tsububar.com.au/) for drinks and a quick bite to eat straight after class finishes, 
+we'll head down to [Tsubu Bar](http://tsububar.com.au/) for drinks and a quick bite to eat straight after class, 
 before heading off to an [Open Knowledge Foundation meetup](http://www.meetup.com/Open-Knowledge-Melbourne/events/220135357/) 
 that starts at 6pm in the city. 
 
