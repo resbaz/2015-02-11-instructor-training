@@ -41,9 +41,9 @@ A number of the activities during the course involve teaching short segments of 
 | 3:30 - 5:00 | Compelling teaching | Bill | three elements of motivation, demotivation, empathizing with learners, introductions, problem framing | homework: think of how you're going to introduce your topic, demotivational stories |
 
 For those who are interested, 
-we'll head down to [Tsubu Bar](http://tsububar.com.au/) for drinks and a bite to eat straight after the Day 1 classes finish, 
-before heading off to an [Open Knowledge Foundation](http://www.meetup.com/Open-Knowledge-Melbourne/events/220135357/) 
-meetup in the city. 
+we'll head down to [Tsubu Bar](http://tsububar.com.au/) for drinks and a quick bite to eat straight after class finishes, 
+before heading off to an [Open Knowledge Foundation meetup](http://www.meetup.com/Open-Knowledge-Melbourne/events/220135357/) 
+that starts at 6pm in the city. 
 
 ###Day 2 (Thu 12 Feb) - Planning and Managing the Classroom
 
