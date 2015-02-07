@@ -40,7 +40,10 @@ A number of the activities during the course involve teaching short segments of 
 | **3:00 - 3:30** | **Afternoon tea (provided)** | | | |  
 | 3:30 - 5:00 | Compelling teaching | Bill | three elements of motivation, demotivation, empathizing with learners, introductions, problem framing | homework: think of how you're going to introduce your topic, demotivational stories |
 
-For those who are interested, we'll head down to [Tsubu Bar](http://tsububar.com.au/) for drinks and a bite to eat straight after the Day 1 classes finish, before heading off to an [Open Knowledge Foundation](http://www.meetup.com/Open-Knowledge-Melbourne/events/220135357/) meetup where Nick Jones (Director of New Zealand eScience Infrastructure and attendee at this instructor training event) will be presenting. 
+For those who are interested, 
+we'll head down to [Tsubu Bar](http://tsububar.com.au/) for drinks and a bite to eat straight after the Day 1 classes finish, 
+before heading off to an [Open Knowledge Foundation](http://www.meetup.com/Open-Knowledge-Melbourne/events/220135357/) 
+meetup in the city. 
 
 ###Day 2 (Thu 12 Feb) - Planning and Managing the Classroom
 
