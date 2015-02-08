@@ -65,6 +65,8 @@ Arna Karick is looking to establish a Swinburne Data Science Institute in 2015 (
 The Research Platforms department (better known through it's [Research Bazaar](http://resbaz.tumblr.com/) program) will be looking to offer a number of workshops for University of Melbourne staff and students in 2015 (although there is also scope to host workshops elsewhere in Melbourne). A particular focus will be running workshops for disciplines at the University of Melbourne that have not had much exposure to Software Carpentry in the past (e.g. economics, botany, mathematics and statistics). Damien Irving will coordinate a discussion in this group about when, where and for whom those workshops will be run.
 * Instructors: **Damien Irving**, Andrea Bedini, Tim Rice, Thomas Coudrat, Pip Griffin, Jared Winton, Martin Paulo, Nicholas Crouch
 * Possible helpers: Luke Zappia
+* Website/s:
+  * http://resbaz.github.io/2015-05-25-unimelb/ 
 
 #### New South Wales
 
