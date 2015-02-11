@@ -33,18 +33,18 @@ Due to the large cohort of instructors, there is scope to run a number of worksh
 * Possible helpers:
 * Website:
 
-#### Melbourne (Bureau of Meteorology)
-
-* Instructors: **Rob Johnson**  
+#### Weather/climate/ocean sciences
+* Instructors: **Rob Johnson**, Nic Hannah  
 * Possible helpers: Luke Garde  
-* Website:  
+* Website/s:
+  * http://damienirving.github.io/2015-07-13-amos/
 
 #### Melbourne (Neuroscience)
 
-* Instructors: Bryan Paton, **Isabell Kiral-Kornek**, Scott Kolbe
+* Instructors: **Isabell Kiral-Kornek**, Scott Kolbe
 * Possible helpers: ResBaz MATLAB teaching team
 * Website:
-* Notes: Bryan is developing some neuroscience teaching materials (in MATLAB) which might be a perfect fit for a [Data Carpentry](http://datacarpentry.org/) workshop
+* Notes: Bryan Paton is developing some neuroscience teaching materials (in MATLAB) which might be a perfect fit for a [Data Carpentry](http://datacarpentry.org/) workshop
 
 #### Melbourne (RMIT)
 
