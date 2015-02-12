@@ -58,7 +58,7 @@ that starts at 6pm in the city.
 | **3:00 - 3:30** | **Afternoon tea on South Lawn (provided)** | | | |  
 | 3:30 - 5:00 | Project time (continued) | Bill | | Greg Wilson available online to assess willing participants |  
 
-There will be a group dinner from 6:30pm at [Pizza by the Metre](http://www.urbanspoon.com/rph/71/1522334/melbourne-pizza-by-the-metre-restaurant-photos) (our shout!).
+There will be a group dinner from 6:30pm at [Pizza by the Metre](http://www.urbanspoon.com/r/71/1522334/restaurant/Melbourne/Pizza-By-The-Metre-Carlton) (our shout!).
 Drinks are BYO (there's a bottle shop at 304 Lygon St between Faraday and Grattan Streets, 
 right around the corner from Pizza by the Metre). 
 
