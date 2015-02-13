@@ -18,7 +18,7 @@ North Theatre (Room 239)
 Participants are asked to familiarise themselves with the materials for one of the following major Software Carpentry (SWC) lessons: 
 * [Unix shell](http://software-carpentry.org/v5/novice/shell/)
 * [Programming with Python](http://software-carpentry.org/v5/novice/python/index.html)
-* [Programming with R] (http://resbaz.github.io/novice-r/index.html)
+* [Programming with R] (http://resbaz.github.io/r-novice-gapminder/index.html)
 * [Programming with MATLAB](http://swcarpentry.github.io/matlab-novice-inflammation/)
 * [Version control with Git](http://software-carpentry.org/v5/novice/git/index.html)
 * [Using databases and SQL](http://software-carpentry.org/v5/novice/sql/index.html)
