@@ -58,7 +58,7 @@ Arna Karick is looking to establish a Swinburne Data Science Institute in 2015 (
 
 * Instructors: **Alistair Walsh**, Ewan Barr, Genevieve Shattow
 * Possible helpers: Luz Garcia, Vivek Venkatraman Krishnan, Nicola Pastorello
-* Website/s:
+* Website/s: [date to be decided](https://github.com/alistairwalsh/2014-11-1-swin)
 
 #### Melbourne (University of Melbourne)
 
