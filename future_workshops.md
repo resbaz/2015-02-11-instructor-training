@@ -84,6 +84,8 @@ The [New Zealand eScience Infrastructure](https://www.nesi.org.nz/) sponsored a 
 * Website/s: 
   * http://sungeunbae.github.io/2015-02-23-canterbury/
   * http://jrugis.github.io/2015-02-26-auckland/
+* Notes:
+  * Mik, James and Tom are based at the [University of Otago](http://www.otago.ac.nz) which intends to become another NZ-based SWcarpentry affiliate and run workshops in co-operation with NeSI.
 
 #### Perth (Curtin University)
 
