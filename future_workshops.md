@@ -29,8 +29,8 @@ Due to the large cohort of instructors, there is scope to run a number of worksh
 #### Melbourne (Bioinformatics)
 
 [COMBINE](http://combine.org.au/) have already co-hosted two workshops in Melbourne for the bioinformatics community and will be looking to continue this tradition in 2015.
-* Instructors: **Scott Ritchie**, Harriet Dashnow, Peter Hickey, Noel Faux, Andrew Lonsdale
-* Possible helpers:
+* Instructors: **Scott Ritchie**, Harriet Dashnow, Noel Faux, Andrew Lonsdale, Tim Rice, Thomas Coudrat, Pip Griffin (Peter Hickey?)
+* Possible helpers: Simon Gladman, Juan Nunez-Iglesias, Torsten Seemann, Clare Slogett, Kian Ho, others from COMBINE... (Juan and Clare could also be instructors)
 * Website:
 
 #### Weather/climate/ocean sciences
@@ -63,7 +63,7 @@ Arna Karick is looking to establish a Swinburne Data Science Institute in 2015 (
 #### Melbourne (University of Melbourne)
 
 The Research Platforms department (better known through it's [Research Bazaar](http://resbaz.tumblr.com/) program) will be looking to offer a number of workshops for University of Melbourne staff and students in 2015 (although there is also scope to host workshops elsewhere in Melbourne). A particular focus will be running workshops for disciplines at the University of Melbourne that have not had much exposure to Software Carpentry in the past (e.g. economics, botany, mathematics and statistics). Damien Irving will coordinate a discussion in this group about when, where and for whom those workshops will be run.
-* Instructors: **Damien Irving**, Andrea Bedini, Tim Rice, Thomas Coudrat, Pip Griffin, Jared Winton, Martin Paulo, Nicholas Crouch
+* Instructors: **Damien Irving**, Andrea Bedini, Jared Winton, Martin Paulo, Nicholas Crouch
 * Possible helpers: Luke Zappia
 * Website/s:
   * http://resbaz.github.io/2015-05-25-unimelb/ 
